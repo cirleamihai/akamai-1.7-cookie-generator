@@ -1,2 +1,2 @@
 # akamai-1.7-cookie-generator
-Requests Based Akamai v1.7 Generator. Can be used with Custom HTTPS Clients
+<h2> disclaimer: 2021 working version -> might be outdated </h2>
