@@ -1,5 +1,6 @@
 # akamai-1.7-cookie-generator
 <h2> disclaimer: 2021 working version -> might be outdated </h2>
+his document, along with the associated script and any related content, has been created strictly for educational purposes. The intent is to provide insights into how web security, particularly Akamai's Bot Manager, operates and to understand the challenges and techniques involved in navigating complex web security systems.
 <h1>Welcome to Akamai Cookie Generator for Akamai protected websites!</h1>
 <p>This script is designed to automate the process of generating valid Akamai cookies for interacting with websites protected by Akamai's Bot Manager, specifically targeting the Sizeer website.</p>
 <h2>What is Akamai?</h2>
