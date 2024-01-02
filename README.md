@@ -48,7 +48,7 @@ pip install -r requirements.txt
 <p>Execute the script using Python.</p>
 <pre>
     <code>
-python [script_name].py
+python akamai_solver.py
     </code>
 </pre>
 
